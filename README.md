@@ -1,14 +1,14 @@
 <div align="center">
-<h1 align="center">Hi guys, my name is <a href="https://linktr.ee/monicapyactayo"> Mònica Yactayo</a> 👋</h1>
+<h1 align="center">Hi guys, my name is <a href="https://linktr.ee/monicapyactayo"> Mónica Yactayo</a> 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1vMpKPmCZtg4OD4TXz9r2fmQjItlmMemx/view?usp=drive_link">
+<img src="https://imgur.com/a/fzbPMw8">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
 ![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
 
-## About mi
+## About me
 
 - Graphic Designer
 - 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!!
@@ -18,11 +18,6 @@
 - 😉 #ContentCreator
 - 🤓 #Front-End Developer
 - 👩‍💻 #Publicist⁣
-- 
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
 <br>
 
 ## Proyectos *bombitas*
@@ -107,7 +102,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/monicapyactayo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
 </a>
