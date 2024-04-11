@@ -25,10 +25,10 @@
  <tr>
   <td>
    <p align="center">
-<a href="https://www.instagram.com/monicapyactayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monicapyactayo" height="30" width="40" /></a>
-<a href="https://www.behance.net/monicayactayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="monicapyactayo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/monicapyactayo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="monicapyactayo" height="30" width="40" /></a>
-<p align="center"> <a href="https://twitter.com/itssofidev" target="_blank"><img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=for-the-badge" alt="sofidevo" /></a> </p>
+<a href="https://www.instagram.com/monicapyactayo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monicapyactayo" height="30" width="40" /></a>
+<a href="https://www.behance.net/monicayactayo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="monicapyactayo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monicapyactayo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="monicapyactayo" height="30" width="40" /></a>
+
   </td>
   <td>
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofidevo&show_icons=true&locale=en&layout=compact" alt="sofidevo" /></p>
