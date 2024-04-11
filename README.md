@@ -25,9 +25,10 @@
  <tr>
   <td>
    <p align="center">
-<a href="https://www.instagram.com/monicapyactayo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monicapyactayo" height="30" width="40" /></a>
-<a href="https://www.behance.net/monicayactayo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="monicapyactayo" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/monicapyactayo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="monicapyactayo" height="30" width="40" /></a>
+<a href="https://www.instagram.com/monicapyactayo" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87390.png" alt="Instagram" height="30" width="30" /></a>
+<a href="https://www.behance.net/monicayactayo" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87399.png" alt="Behance" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/monicapyactayo/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87390.png" alt="LinkedIn" height="30" width="30" /></a>
+
 
   </td>
   <td>
