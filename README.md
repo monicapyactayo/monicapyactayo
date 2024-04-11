@@ -2,11 +2,6 @@
 <h1 align="center">Hi guys, my name is <a href="https://linktr.ee/monicapyactayo"> Mónica Yactayo</a> 👋</h1>
 </div>
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
 ## About me
 
 - Graphic Designer
@@ -30,11 +25,9 @@
  <tr>
   <td>
    <p align="center">
-<a href="https://codepen.io/sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sofidev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-in-alt.svg" alt="sofidev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sofidev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@sofidev" height="30" width="40" /></a>
-<a href="https://discord.gg/802114375732690992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="802114375732690992" height="30" width="40" /></a>
-</p>
+<a href="https://www.instagram.com/monicapyactayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="monicapyactayo" height="30" width="40" /></a>
+<a href="https://www.behance.net/monicayactayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="monicapyactayo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/monicapyactayo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="monicapyactayo" height="30" width="40" /></a>
 <p align="center"> <a href="https://twitter.com/itssofidev" target="_blank"><img src="https://img.shields.io/twitter/follow/sofidevo?logo=twitter&style=for-the-badge" alt="sofidevo" /></a> </p>
   </td>
   <td>
