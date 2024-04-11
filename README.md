@@ -25,7 +25,7 @@
  <tr>
   <td>
    <p align="center">
-<a href="https://www.instagram.com/monicapyactayo" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87390.png" alt="Instagram" height="30" width="30" /></a>
+<a href="https://www.instagram.com/monicapyactayo" target="_blank"><img align="center" src="https://www.flaticon.es/icono-gratis/instagram_717392?term=instagram&page=1&position=7&origin=search&related_id=717392" alt="Instagram" height="30" width="30" /></a>
 <a href="https://www.behance.net/monicayactayo" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87399.png" alt="Behance" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/monicapyactayo/" target="_blank"><img align="center" src="https://image.flaticon.com/icons/png/512/87/87390.png" alt="LinkedIn" height="30" width="30" /></a>
 
