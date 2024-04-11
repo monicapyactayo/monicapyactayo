@@ -32,14 +32,14 @@
         <a href="https://www.linkedin.com/in/monicapyactayo">
           <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
         </a>
-        <a href="https://monicapyactayo.github.io">
-          <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website" />
-        </a>
         <a href="https://twitter.com/monicapyactayo">
           <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter" />
         </a>
-        <a href="https://medium.com/@themlphdstudent">
-          <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" alt="Medium" />
+       <a href="https://www.behance.net/monicapyactayo">
+  <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="Behance" />
+</a>
+        <a href="https://linktr.ee/monicapyactayo">
+          <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website" />
         </a>
       </p>
     </td>
