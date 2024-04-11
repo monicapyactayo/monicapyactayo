@@ -21,7 +21,6 @@
     <th>
       <h3>Connect with Me:</h3>
     </th>
-    <th></th>
   </tr>
   <tr>
     <td>
@@ -35,22 +34,15 @@
         <a href="https://twitter.com/monicapyactayo">
           <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter" />
         </a>
-       <a href="https://www.behance.net/monicapyactayo">
-  <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="Behance" />
-</a>
+        <a href="https://www.facebook.com/monicapyactayo">
+          <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="Facebook" />
+        </a>
+        <a href="https://www.behance.net/monicapyactayo">
+          <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="Behance" />
+        </a>
         <a href="https://linktr.ee/monicapyactayo">
           <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website" />
         </a>
-      </p>
-    </td>
-    <td>
-      <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monicapyactayo&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-      </p>
-    </td>
-    <td>
-      <p align="right">
-        <img align="right" width="250" src="https://github.com/monicapyactayo/monicapyactayo/blob/main/assets/102200061/a2ccaae1-3a70-4788-ad54-8f6cb6e3e169.jpg" alt="Profile Image" />
       </p>
     </td>
   </tr>
