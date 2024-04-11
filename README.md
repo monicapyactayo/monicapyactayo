@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi guys, my name is <a href="https://linktr.ee/monicapyactayo"> Mónica Yactayo</a> 👋</h1>
 </div>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/fzbPMw8"  ><a href="//imgur.com/a/fzbPMw8">monicapyactayo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/gallery/fzbPMw8" alt="Descripción de la imagen">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
