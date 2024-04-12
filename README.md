@@ -71,3 +71,12 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=monicapyactayo&layout=compact&langs_count=8&theme=algolia" alt="Top Languages" />
   </a>
 </p>
+
+##
+<div style="background-color: #2f363d; color: #ffffff; padding: 20px;">
+  <div align="center">
+    <p>¡Gracias por visitar mi perfil! No dudes en contactarme a través de mis redes sociales.</p>
+    <p>🌟 Sígueme en mis aventuras: <a href="https://instagram.com/monicapyactayo" style="color: #ffffff;">Instagram</a> | <a href="https://twitter.com/monicapyactayo" style="color: #ffffff;">Twitter</a> | <a href="https://linkedin.com/in/monicapyactayo" style="color: #ffffff;">LinkedIn</a> 🌟</p>
+  </div>
+</div>
+
