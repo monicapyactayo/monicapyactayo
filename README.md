@@ -53,9 +53,9 @@
 
 <div align="center">
   <div style="background-color: #2f363d; padding: 20px; border-radius: 10px;">
-    <h3 style="color: white;">Descarga mi CV en PDF</h3>
+    <h3 style="color: white;">Grab my CV for Future Adventures! 🚀📝</h3>
     <a href="https://www.behance.net/gallery/59198177/CV-Personal" style="text-decoration: none; color: white;">
-      <img src="https://img.shields.io/badge/Descargar-%2312100E.svg?&style=for-the-badge&color=white" alt="Download CV" />
+      <img src="https://img.shields.io/badge/Download-%2312100E.svg?&style=for-the-badge&color=white" alt="Download CV" />
     </a>
   </div>
 </div>
