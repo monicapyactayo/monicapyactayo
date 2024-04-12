@@ -35,7 +35,7 @@
         <a href="https://www.facebook.com/monicapyactayo">
           <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="Facebook" />
         </a>
-        <a href="https://www.behance.net/monicapyactayo">
+        <a href="https://www.behance.net/monicayactayo">
           <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="Behance" />
         </a>
         <a href="https://linktr.ee/monicapyactayo">
