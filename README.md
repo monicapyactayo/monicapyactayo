@@ -3,9 +3,6 @@
   <img src="https://i.imgur.com/6BIXj7V.jpg" alt="Banner" width="100%" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);">
 </div>
 
-<br>
-<br>
-
 ## About Me
 
 - Graphic Designer
@@ -52,7 +49,7 @@
 <br>
 <br>
 
-### 📄 Curriculum Vitae
+## 📄 Curriculum Vitae
 
 <div align="center">
   <div style="background-color: #2f363d; padding: 20px; border-radius: 10px;">
