@@ -77,21 +77,24 @@
   <div align="center">
     <p>🌟🚀🌈 Thank you for visiting my profile! Feel free to contact me through my social networks. 📱💬✉️</p>
     <p>🌟 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!!: 
-      <a href="https://instagram.com/monicapyactayo" style="color: #ffffff;">
-        <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" style="vertical-align: middle;" />
-      </a> |
-      <a href="https://linkedin.com/in/monicapyactayo" style="color: #ffffff;">
-        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" />
-      </a> |
-      <a href="https://www.facebook.com/monicapyactayo" style="color: #ffffff;">
-        <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="vertical-align: middle;" />
-      </a> |
-      <a href="https://twitter.com/monicapyactayo" style="color: #ffffff;">
-        <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="vertical-align: middle;" />
-      </a> |
-      <a href="https://linktr.ee/monicapyactayo" style="color: #ffffff;">
-        <img src="https://img.icons8.com/color/48/000000/linktr.ee.png" alt="Linktree" style="vertical-align: middle;" />
-      </a>
+      <a href="https://instagram.com/monicapyactayo">
+          <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram" />
+        </a>
+        <a href="https://www.linkedin.com/in/monicapyactayo">
+          <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
+        </a>
+        <a href="https://twitter.com/monicapyactayo">
+          <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter" />
+        </a>
+        <a href="https://www.facebook.com/monicapyactayo">
+          <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="Facebook" />
+        </a>
+        <a href="https://www.behance.net/monicapyactayo">
+          <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="Behance" />
+        </a>
+        <a href="https://linktr.ee/monicapyactayo">
+          <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website" />
+        </a>
     🌟</p>
   </div>
 </div>
