@@ -3,6 +3,9 @@
   <img src="https://i.imgur.com/6BIXj7V.jpg" alt="Banner" width="100%" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);">
 </div>
 
+<br>
+<br>
+
 ## About Me
 
 - Graphic Designer
@@ -13,9 +16,6 @@
 - 😉 Content Creator
 - 🤓 Front-End Developer
 - 👩‍💻 Publicist
-
-<br>
-<br>
 
 <table align="center">
   <tr>
@@ -49,6 +49,9 @@
   </tr>
 </table>
 
+<br>
+<br>
+
 ### 📄 Curriculum Vitae
 
 <div align="center">
@@ -59,6 +62,9 @@
     </a>
   </div>
 </div>
+
+<br>
+<br>
 
 ### ⚙️ GitHub Analytics
 
