@@ -94,9 +94,6 @@
         <a href="https://linktr.ee/monicapyactayo">
           <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="linktr.ee" />
         </a>
-    🌟</p>
+  </p>
   </div>
 </div>
-
-
-
