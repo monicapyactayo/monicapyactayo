@@ -51,27 +51,14 @@
 
 ### 📄 Curriculum Vitae
 
-<table align="center">
-  <tr>
-    <td style="background-color: #2f363d; padding: 20px; border-radius: 10px;">
-      <div align="center">
-        <h3 style="color: white;">Descarga mi CV en PDF</h3>
-        <a href="https://www.behance.net/gallery/59198177/CV-Personal" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Descargar-%2312100E.svg?&style=for-the-badge&color=white" alt="Download CV" />
-        </a>
-      </div>
-    </td>
-    <td style="background-color: #2f363d; padding: 20px; border-radius: 10px;">
-      <div align="center">
-        <h3 style="color: white;">Ver mi CV en línea</h3>
-        <a href="https://www.behance.net/gallery/59198177/CV-Personal" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/Ver-%2312100E.svg?&style=for-the-badge&color=white" alt="View CV Online" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <div style="background-color: #2f363d; padding: 20px; border-radius: 10px;">
+    <h3 style="color: white;">Descarga mi CV en PDF</h3>
+    <a href="https://www.behance.net/gallery/59198177/CV-Personal" style="text-decoration: none; color: white;">
+      <img src="https://img.shields.io/badge/Descargar-%2312100E.svg?&style=for-the-badge&color=white" alt="Download CV" />
+    </a>
+  </div>
+</div>
 
 ### ⚙️ GitHub Analytics
 
