@@ -49,6 +49,11 @@
   </tr>
 </table>
 
+### 📄 Curriculum Vitae
+
+- [Descarga mi CV en PDF](https://www.behance.net/gallery/59198177/CV-Personal)
+- [Ver mi CV en línea](https://www.behance.net/gallery/59198177/CV-Personal)
+
 ### ⚙️ GitHub Analytics
 
 <p align="center">
