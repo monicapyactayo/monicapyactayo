@@ -75,8 +75,26 @@
 ##
 <div style="background-color: #2f363d; color: #ffffff; padding: 20px;">
   <div align="center">
-    <p>¡Gracias por visitar mi perfil! No dudes en contactarme a través de mis redes sociales.</p>
-    <p>🌟 Sígueme en mis aventuras: <a href="https://instagram.com/monicapyactayo" style="color: #ffffff;">Instagram</a> | <a href="https://twitter.com/monicapyactayo" style="color: #ffffff;">Twitter</a> | <a href="https://linkedin.com/in/monicapyactayo" style="color: #ffffff;">LinkedIn</a> 🌟</p>
+    <p>🌟🚀🌈 Thank you for visiting my profile! Feel free to contact me through my social networks. 📱💬✉️</p>
+    <p>🌟 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!!: 
+      <a href="https://instagram.com/monicapyactayo" style="color: #ffffff;">
+        <img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" alt="Instagram" style="vertical-align: middle;" />
+      </a> |
+      <a href="https://linkedin.com/in/monicapyactayo" style="color: #ffffff;">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align: middle;" />
+      </a> |
+      <a href="https://www.facebook.com/monicapyactayo" style="color: #ffffff;">
+        <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" style="vertical-align: middle;" />
+      </a> |
+      <a href="https://twitter.com/monicapyactayo" style="color: #ffffff;">
+        <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="vertical-align: middle;" />
+      </a> |
+      <a href="https://linktr.ee/monicapyactayo" style="color: #ffffff;">
+        <img src="https://img.icons8.com/color/48/000000/linktr.ee.png" alt="Linktree" style="vertical-align: middle;" />
+      </a>
+    🌟</p>
   </div>
 </div>
+
+
 
