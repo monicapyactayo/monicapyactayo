@@ -76,24 +76,23 @@
 <div style="background-color: #2f363d; color: #ffffff; padding: 20px;">
   <div align="center">
     <p>🌟🚀🌈 Thank you for visiting my profile! Feel free to contact me through my social networks. 📱💬✉️</p>
-    <p>🌟 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!!: 
       <a href="https://instagram.com/monicapyactayo">
-          <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="Instagram" />
+          <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="" />
         </a>
         <a href="https://www.linkedin.com/in/monicapyactayo">
-          <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="" />
         </a>
         <a href="https://twitter.com/monicapyactayo">
-          <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="Twitter" />
+          <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="" />
         </a>
         <a href="https://www.facebook.com/monicapyactayo">
-          <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="Facebook" />
+          <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=black" alt="" />
         </a>
         <a href="https://www.behance.net/monicapyactayo">
-          <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="Behance" />
+          <img src="https://img.shields.io/badge/behance-%2312100E.svg?&style=for-the-badge&logo=behance&logoColor=white&color=black" alt="" />
         </a>
         <a href="https://linktr.ee/monicapyactayo">
-          <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="Website" />
+          <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black" alt="linktr.ee" />
         </a>
     🌟</p>
   </div>
