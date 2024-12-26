@@ -14,6 +14,7 @@
 - 🤓 Front-End Developer
 - 👩‍💻 Publicist
 
+<br>
 
 <table align="center">
   <tr>
