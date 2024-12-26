@@ -14,6 +14,11 @@
 - 🤓 Front-End Developer
 - 👩‍💻 Publicist
 
+## About Me
+
+- Graphic Designer
+- 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!! 
+
 <table align="center">
   <tr>
     <th>
