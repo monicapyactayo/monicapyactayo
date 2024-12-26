@@ -49,7 +49,6 @@
 </table>
 
 <br>
-<br>
 
 ## 📄 Curriculum Vitae
 
