@@ -13,31 +13,6 @@
 - 😉 Content Creator
 - 🤓 Front-End Developer
 - 👩‍💻 Publicist
-- 
-
-Hello, world!
-
-I’m Mónica Patricia Yactayo Gudiel, born under the sign of Taurus (yep, loyal, stubborn, and with the stamina to get whatever I want). My lucky number is 5, the number of transformation, adventure, and reinvention—perfect for someone destined to reign, create, and leave a legacy with art.
-
-Peruvian by birth but citizen of the world at heart 🌍. Wherever there’s Wi-Fi and good music, you’ll find me working my magic. Lima, London, New York—it doesn’t matter where I land; I’m here to unlock opportunities and own the place.
-
-Let’s be honest: I’m 31—yeah, I know, the knees are starting to feel it—and I’ve swapped wild parties for cozy movie nights with blankets and snacks. But don’t get it twisted, I’m just getting started. Life’s about balance, right? Conquer the world by day, Netflix in bed by night.
-
-So, who inspires me?
-
-Cara Delevingne, of course. She’s bold, unapologetic, and 100% iconic. Why settle for average when you can aim for greatness? Mediocrity? Never heard of it. 💅 I’m here to break limits, make waves, and create art that turns heads.
-
-And now... tah-dah! 🎨✨
-
-Here’s what I do: Graphic design, visual marketing, and content creation so good it deserves applause. I turn concepts into visuals that leave a mark. Need someone to take your brand to the next level? That’s me. All in, no half-measures.
-
-Impressed? I thought so. 🔥 Being awesome at what I do is just part of the deal. I can elevate any project—no limits, just pure growth and good vibes along the way.
-
-Why work with me?
-
-Because I’m not just a designer; I’m an experience. Excellence is my passion, and art that connects with people is my mission. If you’re ready to make history together, I’ll meet you at the top. 🚀
-
-Oh, and yes, I’m single—but in the meantime, I’m focusing on perfecting my craft and making each project a masterpiece. When the right person comes along, I'll be ready, just like I am for every great challenge life throws my way.
 
 
 <table align="center">
