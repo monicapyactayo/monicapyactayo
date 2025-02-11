@@ -1,18 +1,15 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://linktr.ee/monicapyactayo">Mónica Yactayo</a>! 👋</h1>
-  <img src="https://i.imgur.com/6BIXj7V.jpg" alt="Banner" width="100%" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);">
+  <img src="https://imgur.com/a/OlTYcQp" alt="Banner" width="100%" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);">
 </div>
 
 ## About Me
 
 - Graphic Designer
 - 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!! 🌟
-- 🧡 ADHD
-- 🏋️‍♀️ Bariatric Patient
-- 👩‍🍳 Chef Enthusiast
-- 😉 Content Creator
-- 🤓 Front-End Developer
-- 👩‍💻 Publicist
+- 🚀Graphic Designer | Marketing & Tech
+- 💻UX/UI | Full Stack Dev
+- 🧠ADHD | 🏋️‍♀️Bariatric | 👩‍🍳Chef
 
 <br>
 
