@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://linktr.ee/monicapyactayo">Mónica Yactayo</a>! 👋</h1>
-  <img src="https://imgur.com/a/OlTYcQp" alt="Banner" width="100%" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);">
+  <img src="https://imgur.com/irhgMFb" alt="Banner" width="100%" style="box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.1);">
 </div>
 
 ## About Me
