@@ -7,7 +7,7 @@
 
 - Graphic Designer
 - 𝗖𝗼𝗻𝘃𝗲𝗻𝘁𝗶𝗼𝗻𝗮𝗹 𝗶𝘀 𝗕𝗼𝗿𝗶𝗻𝗴!! 🌟
-- 🚀Graphic Designer | Marketing & Tech
+- 🥇 Senior Brand Strategist - AI-Driven
 - 💻UX/UI | Full Stack Dev
 - 🧠ADHD | 🏋️‍♀️Bariatric | 👩‍🍳Chef
 
